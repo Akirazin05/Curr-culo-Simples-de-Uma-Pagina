@@ -1,2 +1,3 @@
-# Curriculo-Simples-de-Uma-Pagina
+# Curriculo Simples de Uma Pagina
 Este projeto envolve a elaboração de um currículo na forma de uma página web utilizando HTML semântico. A meta é criar um currículo de uma página, com seções bem organizadas para educação, competências e experiência profissional.
+A página contém meta tags de SEO para otimização nos motores de busca, tags Open Graph (OG) para melhorar o compartilhamento em redes sociais e um favicon para personalizar o site. O objetivo principal é assegurar uma estrutura semântica e organizada, tornando mais fácil a implementação de estilos e aprimoramentos futuros com CSS e outras tecnologias
