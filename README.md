@@ -3,6 +3,10 @@ Este projeto envolve a elaboração de um currículo na forma de uma página web
 
 # Estrutura
 - index.html: página principal do curriculo
+- assets: pasta com arquivo .ico
 
 ## Futuro
 Desejo estilizar o curriculo com CSS, mas no momento estou aprendendo a base do HTML
+
+# Project URL 
+https://roadmap.sh/projects/single-page-cv
